@@ -59,7 +59,7 @@ members:
   - name: Todd Wostrel
     position: CTO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: Todd.jpg
+    img: todd.jpg
     social:
       - title: envelope #use for email address
         url: mailto:todd@ils.com
